@@ -1,5 +1,11 @@
 # GD Banana TP
 
-There's a monkey trying to ruin your Geometry Dash gameplay
+There's a monkey trying to ruin your Geometry Dash gameplay!
 
-This changes some minor sprites on the creatorLayer...maybe I will finish the whole texture pack when i have a pc! :)
+# Features
+- Some minor creatorLayer icons (including the ```Super Expert mod by xanii```)
+- Custom sound effect when you install the ```Geometry Dash mod by sofabedd```
+- BetterInfo support (icons only, not the entire UI)
+- I will probably add more soon
+
+This isn't complete yet, maybe I will finish this whole texture pack when i have a PC! :)
